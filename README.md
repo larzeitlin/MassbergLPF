@@ -6,4 +6,4 @@ Uses a biquad filter design and calculates coefficients in the manner discribed 
 
 Equations from Will Perkle's website:
 
-[Massberg Coefficients]({{ site.baseurl }}MassbergCorrection.jpg "Massberg Coefficients")
+![Massberg Coefficients](https://github.com/larzeitlin/MassbergLPF/blob/master/MassbergCorrection.jpg?raw=true)
