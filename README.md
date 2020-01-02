@@ -2,7 +2,7 @@
 # Massberg Low-Pass filter for iPlug  
 
 
-A biquad filter dbuilt on top of the iPlug framework. Calculates coefficients Massberg style to better imitate the behaviour of analog low-pass filters at high frequencies. 
+A biquad filter built on top of the iPlug framework. Calculates coefficients Massberg style to better imitate the behaviour of analog low-pass filters at high frequencies. 
 
 Equations from Will Perkle's website:
 
